@@ -2,7 +2,7 @@
   "name": "test-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.io/rajeev211296/Frontendassignmentupdated/",
+  "homepage": "https://github.com/rajeev211296/Frontendassignmentupdated",
   "dependencies": {
     "@material-ui/core": "^4.12.1",
     "@testing-library/jest-dom": "^5.14.1",
