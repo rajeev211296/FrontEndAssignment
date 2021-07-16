@@ -5,7 +5,7 @@ const Patient = () => {
     <div className="patient">
       <div className="container1">
         <div className="row1">
-          <div className="col-6">
+          <div className="col-7">
             <h1> Patient Journey </h1>
             <h3>1.Check Eligibility</h3>
             <p>
