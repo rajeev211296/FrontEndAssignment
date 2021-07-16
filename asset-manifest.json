@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/rajeev211296/Frontendassignmentupdated/static/css/main.137ac471.chunk.css",
+    "main.js": "/rajeev211296/Frontendassignmentupdated/static/js/main.2d7942fe.chunk.js",
+    "main.js.map": "/rajeev211296/Frontendassignmentupdated/static/js/main.2d7942fe.chunk.js.map",
+    "runtime-main.js": "/rajeev211296/Frontendassignmentupdated/static/js/runtime-main.141b4307.js",
+    "runtime-main.js.map": "/rajeev211296/Frontendassignmentupdated/static/js/runtime-main.141b4307.js.map",
+    "static/js/2.de27ef0a.chunk.js": "/rajeev211296/Frontendassignmentupdated/static/js/2.de27ef0a.chunk.js",
+    "static/js/2.de27ef0a.chunk.js.map": "/rajeev211296/Frontendassignmentupdated/static/js/2.de27ef0a.chunk.js.map",
+    "index.html": "/rajeev211296/Frontendassignmentupdated/index.html",
+    "static/css/main.137ac471.chunk.css.map": "/rajeev211296/Frontendassignmentupdated/static/css/main.137ac471.chunk.css.map",
+    "static/js/2.de27ef0a.chunk.js.LICENSE.txt": "/rajeev211296/Frontendassignmentupdated/static/js/2.de27ef0a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/rajeev211296/Frontendassignmentupdated/static/media/bg-4.10a5b407.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.141b4307.js",
+    "static/js/2.de27ef0a.chunk.js",
+    "static/css/main.137ac471.chunk.css",
+    "static/js/main.2d7942fe.chunk.js"
+  ]
+}
